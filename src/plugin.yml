@@ -1,0 +1,10 @@
+name: SeniorTeamTempmute
+main: me.border.tempmute.Main
+version: 1.0
+author: MrBorder
+commands:
+  tempmute:
+    description: Temporarily mute a player
+    aliases: [tm]
+  unmute:
+    description: Unmute a player

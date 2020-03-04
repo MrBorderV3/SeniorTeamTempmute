@@ -1,0 +1,11 @@
+playerNotFound: '&cError! &6%target%&c Not found!'
+noPermission: '&cYou do not have permission to execute this command!'
+illegalArguments: '&cError! &cIllegal arguments!'
+Tempmute:
+  correct_usage: '&cIncorrect usage! the correct usage is &b/tempmute <target> <time> <reason>&c!'
+  notification: '&c%player%&6 Has been muted &c%target%&6 for &c%time%&6!'
+  notification_cancel: '&c&lNotice! &cYou have been un-muted!'
+  blacklisted: '&c&lNotice! &cYou have been muted for &6%time%&c!'
+  unblacklisted: '&c%player%&6 Has muted &c%target%&6!'
+  attempt_talk: '&c&lNotice! &cYou are muted and may not talk! Your mute has &6%time%&cleft!'
+  playerNotBlacklisted: '&cError! &6%target%&c Is not blacklisted!'
